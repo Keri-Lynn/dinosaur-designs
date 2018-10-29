@@ -38,6 +38,14 @@ nav a:hover {
   text-decoration: underline;
 }
 
+nav {
+  font-family: "Patua One", cursive;
+}
+
+h2 {
+  font-family: "Patua One", cursive;
+}
+
 .intro {
   font-family: "Patua One", cursive;
   font-size: 1rem;
