@@ -10,6 +10,7 @@ img {
 
 h1, h2 {
   color: #5d8432;
+  font-family: "Patua One", sans-serif;
   text-transform: uppercase;
 }
 
@@ -37,10 +38,6 @@ nav a {
 nav a:hover {
   color: #b42885;
   text-decoration: underline;
-}
-
-h2 {
-  font-family: "Patua One", sans-serif;
 }
 
 .intro {
